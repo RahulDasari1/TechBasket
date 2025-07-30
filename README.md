@@ -11,13 +11,13 @@
 
 
 📁 TechBasket/
-├── index.html         # Homepage
-├── register.html      # User registration
-├── login.html         # User login
-├── contact.html       # Contact page
-├── about.html         # About us page
-├── style.css          # Main stylesheet
-└── images/            # Image assets
+├── index.html         # Homepage <br />
+├── register.html      # User registration <br />
+├── login.html         # User login<br />
+├── contact.html       # Contact page<br />
+├── about.html         # About us page<br />
+├── style.css          # Main stylesheet<br />
+└── images/            # Image assets<br />
 
 
 ---
@@ -52,7 +52,8 @@
 
 Images used across the project are stored in the `/images` directory. Reference them in your HTML like:
 
-<img src="images/example.jpg" alt="Example Image">
+<img width="563" height="588" alt="image" src="https://github.com/user-attachments/assets/751e33bc-1b2e-4d5b-a44e-78d22521a4e0" />
+
 
 ---
 
