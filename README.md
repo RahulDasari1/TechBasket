@@ -1,5 +1,3 @@
-
-
 # 🧺 TechBasket – Electronic eCommerce Platform
 
 **TechBasket** is a front-end web project for an electronic eCommerce platform. It includes key user-facing pages like Home, Register, Login, Contact, and About, styled with CSS and structured for future backend integration.
@@ -10,7 +8,7 @@
 
 ## 📁 Project Structure
 
-```
+
 
 📁 TechBasket/
 ├── index.html         # Homepage
@@ -54,9 +52,7 @@
 
 Images used across the project are stored in the `/images` directory. Reference them in your HTML like:
 
-```html
 <img src="images/example.jpg" alt="Example Image">
-````
 
 ---
 
